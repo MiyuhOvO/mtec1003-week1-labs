@@ -15,6 +15,10 @@ $ ls<ENTER>
 
 Copy and paste the output of ls below.
 ----------
+Applications		Downloads		Pictures
+Creative Cloud Files	Library			Public
+Desktop			Movies
+Documents		Music
 
 
 
