@@ -104,7 +104,7 @@ $ foo<ENTER>
 
 Copy and paste the output below.
 ----------
-
+zsh: command not found: foo
 
 
 
@@ -115,7 +115,7 @@ Copy and paste the output below.
 
 Copy and paste the output below.
 ----------
-
+zsh: command not found: up
 
 
 
@@ -128,7 +128,10 @@ $ ls -a Desktop
 
 Identify the command, flag, argument, and prompt:
 ----------
-
+command ls
+flag -a
+argument Desktop
+prompt $
 
 
 
